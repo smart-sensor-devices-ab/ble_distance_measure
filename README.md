@@ -1,4 +1,4 @@
-## Measure Distance of Bluetooth device using BleIO
+## Measure Distance of Bluetooth device using BleuIO
 
 This script looks for nearby Bluetooth devices and get the distance.
 
